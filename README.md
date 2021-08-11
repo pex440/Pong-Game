@@ -1,4 +1,4 @@
-# Pong-Game by pex440
+# My Pong Game
 
 This is a simple pong game 
 
